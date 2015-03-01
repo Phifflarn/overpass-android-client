@@ -1,0 +1,5 @@
+<root>
+    <item name='android.speech.tts.TextToSpeech'>
+        <annotation name='java.lang.annotation.Deprecated' />
+    </item>
+</root>
